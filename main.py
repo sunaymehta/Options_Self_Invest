@@ -1,5 +1,4 @@
 import all_imports as ai
-import train as train
 
 current_security_price = float(input('Enter the current value of underlying security: '))
 
